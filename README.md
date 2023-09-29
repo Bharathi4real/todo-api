@@ -25,8 +25,8 @@ This repository contains a RESTful API for managing a Todo List, implemented in 
 ## Usage
 
 1. Ensure you have Go and the Gin framework installed.
-2. Clone the repository: `git clone https://github.com/yourusername/todo-api-gin.git`
-3. Navigate to the project directory: `cd todo-api-gin`
+2. Clone the repository: `git clone https://github.com/Bharathi4real/todo-api.git`
+3. Navigate to the project directory: `cd todo-api`
 4. Install dependencies: `go get -u github.com/gin-gonic/gin`
 5. Run the server: `go run main.go`
 6. Access the API at `http://localhost:9090`.
